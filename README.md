@@ -1,2 +1,2 @@
-# MyFirstRepoBA
-This is my first Repo
+# MyFirstRepo
+This is my first repository
